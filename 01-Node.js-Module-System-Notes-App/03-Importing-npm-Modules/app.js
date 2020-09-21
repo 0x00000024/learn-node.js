@@ -5,4 +5,4 @@ const msg = getNotes();
 
 console.log(msg);
 
-console.log(validator.isEmail(''));
+console.log(validator.isEmail('afdsaf@aa.com'));
