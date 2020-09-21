@@ -1,0 +1,20 @@
+{
+  "name": "learn-node.js",
+  "version": "1.0.0",
+  "description": "Learn Node.js by building real-world applications with Node, Express, MongoDB, Jest, and more!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x00000024/learn-node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0x00000024/learn-node.js/issues"
+  },
+  "homepage": "https://github.com/0x00000024/learn-node.js#readme"
+}
