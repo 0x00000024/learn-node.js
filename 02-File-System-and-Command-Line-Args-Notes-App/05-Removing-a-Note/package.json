@@ -1,0 +1,23 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/validator": "^13.1.0",
+    "@types/yargs": "^15.0.5",
+    "chalk": "^4.1.0",
+    "eslint": "^7.9.0",
+    "eslint-config-google": "^0.14.0",
+    "prettier": "2.1.2",
+    "validator": "^13.1.17",
+    "yargs": "^16.0.3"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "description": ""
+}
